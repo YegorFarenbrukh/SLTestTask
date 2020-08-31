@@ -1,0 +1,6 @@
+framework module Pods_SLTestTask {
+  umbrella header "Pods-SLTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
